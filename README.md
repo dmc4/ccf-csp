@@ -32,5 +32,7 @@ stl map set 长整形的声明 long, long int, long long, int 不够就long long
 计算 prefix 还得再看看 
 
 
-###TODO
-排列组合 斐波那契数列
+排列组合 
+Permutation: nPr = n!/(n - r)!
+combinations nCr = n!/{(n - r)! * r!} 
+斐波那契数列
